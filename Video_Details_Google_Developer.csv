@@ -1,21 +1,31 @@
 ,Title,Publish Date,Views,Likes,Favourites,Comments,Month
-0,Ning talks about OpenSocial,2007-11-03,24201,52,0,17,Nov
-1,LinkedIn talks about OpenSocial,2007-11-03,3692,5,0,1,Nov
-2,Plaxo talks about OpenSocial,2007-11-03,2687,2,0,0,Nov
-3,Flixster talks about OpenSocial,2007-11-03,3685,8,0,5,Nov
-4,Shelfari talks about OpenSocial,2007-11-03,3392,8,0,2,Nov
-5,E-junkie talks about OpenSocial,2007-11-03,1869,6,0,1,Nov
-6,Slide talks about OpenSocial,2007-11-03,2994,2,0,1,Nov
-7,Bleacher Report talks about OpenSocial,2007-11-03,2417,11,0,2,Nov
-8,Maps API Overview (short),2007-10-30,2918,11,0,0,Oct
-9,[DEPRECATED] Blogger JavaScript Library Release and Blog.gears Offline,2007-10-18,146626,68,0,6,Oct
-10,Sigurd Magnusson of SilverStripe,2007-10-12,5780,2,0,2,Oct
-11,[DEPRECATED] Google does cross domain read/write JavaScript,2007-09-20,27391,24,0,11,Sep
-12,Queplix talk about their GWT open source application,2007-09-17,6908,3,0,0,Sep
-13,Gears 0.2 Update,2007-08-29,13820,8,0,2,Aug
-14,Cluster Computing and MapReduce Lecture 5,2007-08-28,45119,103,0,6,Aug
-15,Cluster Computing and MapReduce Lecture 3,2007-08-28,65156,216,0,8,Aug
-16,Cluster Computing and MapReduce Lecture 1,2007-08-28,228918,876,0,54,Aug
-17,Cluster Computing and MapReduce Lecture 2,2007-08-28,104183,311,0,34,Aug
-18,Cluster Computing and MapReduce Lecture 4,2007-08-28,123272,240,0,39,Aug
-19,Gearing up with Zoho Offline,2007-08-23,12460,67,0,24,Aug
+0,Campfire One: Introducing OpenSocial (pt. 3),2007-11-10,2463,2,0,0,Nov
+1,Campfire One: Introducing OpenSocial (pt. 2),2007-11-10,2879,1,0,2,Nov
+2,Campfire One: Introducing OpenSocial (pt. 1),2007-11-10,5956,3,0,1,Nov
+3,Hungry Machine talks about OpenSocial,2007-11-08,1188,0,0,1,Nov
+4,Oberon Media talks about OpenSocial,2007-11-08,2946,10,0,0,Nov
+5,RockYou talks about OpenSocial,2007-11-08,1296,1,0,2,Nov
+6,Qloud talks about OpenSocial,2007-11-07,1585,1,0,1,Nov
+7,hi5 talks about OpenSocial,2007-11-05,18334,6,0,3,Nov
+8,iLike talks about OpenSocial,2007-11-03,2240,3,0,0,Nov
+9,FotoFlexer talks about OpenSocial,2007-11-03,3678,4,0,0,Nov
+10,Ning talks about OpenSocial,2007-11-03,24202,52,0,17,Nov
+11,LinkedIn talks about OpenSocial,2007-11-03,3692,5,0,1,Nov
+12,Plaxo talks about OpenSocial,2007-11-03,2687,2,0,0,Nov
+13,Flixster talks about OpenSocial,2007-11-03,3685,8,0,5,Nov
+14,Shelfari talks about OpenSocial,2007-11-03,3392,8,0,2,Nov
+15,E-junkie talks about OpenSocial,2007-11-03,1870,6,0,1,Nov
+16,Slide talks about OpenSocial,2007-11-03,2994,2,0,1,Nov
+17,Bleacher Report talks about OpenSocial,2007-11-03,2417,11,0,2,Nov
+18,Maps API Overview (short),2007-10-30,2921,11,0,0,Oct
+19,[DEPRECATED] Blogger JavaScript Library Release and Blog.gears Offline,2007-10-18,146626,68,0,6,Oct
+20,Sigurd Magnusson of SilverStripe,2007-10-12,5780,2,0,2,Oct
+21,[DEPRECATED] Google does cross domain read/write JavaScript,2007-09-20,27392,24,0,11,Sep
+22,Queplix talk about their GWT open source application,2007-09-17,6908,3,0,0,Sep
+23,Gears 0.2 Update,2007-08-29,13820,8,0,2,Aug
+24,Cluster Computing and MapReduce Lecture 5,2007-08-28,45127,103,0,6,Aug
+25,Cluster Computing and MapReduce Lecture 3,2007-08-28,65158,216,0,8,Aug
+26,Cluster Computing and MapReduce Lecture 1,2007-08-28,228935,876,0,54,Aug
+27,Cluster Computing and MapReduce Lecture 2,2007-08-28,104189,311,0,34,Aug
+28,Cluster Computing and MapReduce Lecture 4,2007-08-28,123281,240,0,39,Aug
+29,Gearing up with Zoho Offline,2007-08-23,12471,67,0,24,Aug

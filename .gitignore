@@ -60,3 +60,4 @@ $RECYCLE.BIN/
 __MACOSX/
 ehthumbs.db
 Thumbs.db
+*./google_service_account.json
